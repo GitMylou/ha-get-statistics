@@ -1,0 +1,8 @@
+{
+  "domain": "long_term_stats",
+  "name": "Long Term Stats API",
+  "version": "1.0",
+  "requirements": [],
+  "dependencies": ["recorder"],
+  "codeowners": []
+}
